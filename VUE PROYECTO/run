@@ -1,0 +1,1369 @@
+Script started on 2024-02-08 10:14:07+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="197" LINES="12"]
+[?2004h]0;colegio@colegio-virtual-machine: ~/Escritorio/VUE PROYECTO[01;32mcolegio@colegio-virtual-machine[00m:[01;34m~/Escritorio/VUE PROYECTO[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;colegio@colegio-virtual-machine: ~/Escritorio/VUE PROYECTO[01;32mcolegio@colegio-virtual-machine[00m:[01;34m~/Escritorio/VUE PROYECTO[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;colegio@colegio-virtual-machine: ~/Escritorio/VUE PROYECTO[01;32mcolegio@colegio-virtual-machine[00m:[01;34m~/Escritorio/VUE PROYECTO[00m$ npm run serve
+[?2004l
+> vue_proyecto@0.1.0 serve
+> vue-cli-service serve
+
+[44m[30m INFO [39m[49m Starting development server...
+[?25l[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run webpack-dev-middleware)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory CaseSensitivePathsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[5%] [39m[37msetup [39m[90m(context module factory)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile ExternalsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation CopyPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ArrayPushCallbackChunkFormatPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation JsonpChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation StartupChunkDependenciesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ImportScriptsChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileAsyncWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation WorkerPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ChunkPrefetchPreloadPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ModuleInfoHeaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EvalSourceMapDevToolPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JsonModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AssetModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RuntimePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DataUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FileUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CompatibilityPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HarmonyModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AMDPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireJsStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CommonJsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation LoaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NodeStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation APIPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ExportsInfoApiPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WebpackIsIncludedPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ConstPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation UseStrictPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireIncludePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireEnsurePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SystemPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation URLPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsFactoryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPresetPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPrinterPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptMetaInfoPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation TemplatedPathPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProvidePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/0 modules)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(import loader babel-loader/lib/index.js)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/1 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(1/4 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/index.js)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(6/16 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/pitcher.js)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(7/29 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/templateLoader.js)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(7/29 modules)[39m
+[?25l[2K[1A[2K[G[33m[38%] [39m[37mbuilding [39m[90m(54/109 modules)[39m
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(142/153 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m[90m(169/169 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[69%] [39m[37mbuilding [39m[90m(finish)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[72%] [39m[37msealing [39m[90m(after dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(after chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(optimizing)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(module optimization)[39m
+[?25l[2K[1A[2K[G[33m[75%] [39m[37msealing [39m[90m(after module optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(after chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(after module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[79%] [39m[37msealing [39m[90m(after chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(before module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(before chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(after chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(module hashing)[39m
+[?25l[2K[1A[2K[G[33m[88%] [39m[37msealing [39m[90m(code generation)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(runtime requirements)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(hashing)[39m
+[?25l[2K[1A[2K[G[33m[90%] [39m[37msealing [39m[90m(after hashing)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(record hash)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(module assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(chunk assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing copy-webpack-plugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[93%] [39m[37msealing [39m[90m(after asset optimization)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(after seal)[39m
+[?25l[2K[1A[2K[G[33m[95%] [39m[37memitting [39m[90m(emit)[39m
+[?25l[2K[1A[2K[G[33m[98%] [39m[37memitting [39m[90m(after emit)[39m
+[?25l[2K[1A[2K[G[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[42m[30m DONE [39m[49m [32mCompiled successfully in 1676ms[39m                                                                                                                                                       [90m10:14:14[39m
+
+[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G
+  App running at:
+  - Local:   [36mhttp://localhost:[1m8080[22m/[39m 
+  - Network: [36mhttp://172.26.3.88:[1m8080[22m/[39m
+
+  Note that the development build is not optimized.
+  To create a production build, run [36mnpm run build[39m.
+
+[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:14:14 by 0.000s[39m
+[2K[1A[2K[G
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[44m[30m WAIT [39m[49m [34mCompiling...[39m                                                                                                                                                                          [90m10:15:13[39m
+
+[37mCompiling...[39m
+[?25l
+[?25l[2K[1A[2K[G[33m[1%] [39m[37mcache [39m[90m(end idle)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run webpack-dev-middleware)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory CaseSensitivePathsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[5%] [39m[37msetup [39m[90m(context module factory)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile ExternalsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation CopyPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ArrayPushCallbackChunkFormatPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation JsonpChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation StartupChunkDependenciesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ImportScriptsChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileAsyncWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation WorkerPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ChunkPrefetchPreloadPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ModuleInfoHeaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EvalSourceMapDevToolPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JsonModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AssetModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RuntimePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DataUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FileUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CompatibilityPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HarmonyModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AMDPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireJsStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CommonJsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation LoaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NodeStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation APIPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ExportsInfoApiPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WebpackIsIncludedPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ConstPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation UseStrictPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireIncludePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireEnsurePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SystemPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation URLPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsFactoryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPresetPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPrinterPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptMetaInfoPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation TemplatedPathPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProvidePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/0 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(1/5 modules)[39m
+[?25l[2K[1A[2K[G[33m[38%] [39m[37mbuilding [39m[90m(34/21 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(138/38 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/44 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader babel-loader/lib/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/templateLoader.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/49 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m[90m(169/50 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[69%] [39m[37mbuilding [39m[90m(finish)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[72%] [39m[37msealing [39m[90m(after dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(after chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(optimizing)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(module optimization)[39m
+[?25l[2K[1A[2K[G[33m[75%] [39m[37msealing [39m[90m(after module optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(after chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(after module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[79%] [39m[37msealing [39m[90m(after chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(before module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(before chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(after chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(module hashing)[39m
+[?25l[2K[1A[2K[G[33m[88%] [39m[37msealing [39m[90m(code generation)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(runtime requirements)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(hashing)[39m
+[?25l[2K[1A[2K[G[33m[90%] [39m[37msealing [39m[90m(after hashing)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(record hash)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(module assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(chunk assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing copy-webpack-plugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[93%] [39m[37msealing [39m[90m(after asset optimization)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(after seal)[39m
+[?25l[2K[1A[2K[G[33m[95%] [39m[37memitting [39m[90m(emit)[39m
+[?25l[2K[1A[2K[G[33m[98%] [39m[37memitting [39m[90m(after emit)[39m
+[?25l[2K[1A[2K[G[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[41m[30m ERROR [39m[49m [31mFailed to compile with 1 error[39m                                                                                                                                                       [90m10:15:14[39m
+
+[eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m   [2m2:9[22m   [31merror[39m  'defineProps' is defined but never used  [2mno-unused-vars[22m[0m
+[0m  [2m18:9[22m   [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m20:17[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m21:15[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+You may use special comments to disable some warnings.
+Use [33m// eslint-disable-next-line[39m to ignore the next line.
+Use [33m/* eslint-disable */[39m to ignore all warnings in a file.
+[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:15:14 by 0.000s[39m
+[2K[1A[2K[G[1m[31mERROR[39m[22m in [eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m   [2m2:9[22m   [31merror[39m  'defineProps' is defined but never used  [2mno-unused-vars[22m[0m
+[0m  [2m18:9[22m   [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m20:17[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m21:15[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+webpack compiled with [1m[31m1 error[39m[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[44m[30m WAIT [39m[49m [34mCompiling...[39m                                                                                                                                                                          [90m10:18:58[39m
+
+[37mCompiling...[39m
+[?25l
+[?25l[2K[1A[2K[G[33m[1%] [39m[37mcache [39m[90m(end idle)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run webpack-dev-middleware)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory CaseSensitivePathsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[5%] [39m[37msetup [39m[90m(context module factory)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile ExternalsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation CopyPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ArrayPushCallbackChunkFormatPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation JsonpChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation StartupChunkDependenciesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ImportScriptsChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileAsyncWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation WorkerPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ChunkPrefetchPreloadPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ModuleInfoHeaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EvalSourceMapDevToolPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JsonModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AssetModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RuntimePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DataUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FileUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CompatibilityPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HarmonyModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AMDPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireJsStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CommonJsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation LoaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NodeStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation APIPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ExportsInfoApiPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WebpackIsIncludedPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ConstPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation UseStrictPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireIncludePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireEnsurePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SystemPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation URLPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsFactoryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPresetPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPrinterPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptMetaInfoPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation TemplatedPathPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProvidePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/0 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(7/5 modules)[39m
+[?25l[2K[1A[2K[G[33m[38%] [39m[37mbuilding [39m[90m(19/12 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(138/38 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/44 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader babel-loader/lib/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/templateLoader.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/49 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m[90m(169/50 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[69%] [39m[37mbuilding [39m[90m(finish)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[72%] [39m[37msealing [39m[90m(after dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(after chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(optimizing)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(module optimization)[39m
+[?25l[2K[1A[2K[G[33m[75%] [39m[37msealing [39m[90m(after module optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(after chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(after module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[79%] [39m[37msealing [39m[90m(after chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(before module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(before chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(after chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(module hashing)[39m
+[?25l[2K[1A[2K[G[33m[88%] [39m[37msealing [39m[90m(code generation)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(runtime requirements)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(hashing)[39m
+[?25l[2K[1A[2K[G[33m[90%] [39m[37msealing [39m[90m(after hashing)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(record hash)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(module assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(chunk assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing copy-webpack-plugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[93%] [39m[37msealing [39m[90m(after asset optimization)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(after seal)[39m
+[?25l[2K[1A[2K[G[33m[95%] [39m[37memitting [39m[90m(emit)[39m
+[?25l[2K[1A[2K[G[33m[98%] [39m[37memitting [39m[90m(after emit)[39m
+[?25l[2K[1A[2K[G[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[41m[30m ERROR [39m[49m [31mFailed to compile with 1 error[39m                                                                                                                                                       [90m10:18:58[39m
+
+[eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m  [2m4:15[22m  [31merror[39m  Props are defined in both `defineProps` and `export default {}`  [2mvue/valid-define-props[22m[0m
+[0m[0m
+[0m[31m[1m✖ 1 problem (1 error, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+You may use special comments to disable some warnings.
+Use [33m// eslint-disable-next-line[39m to ignore the next line.
+Use [33m/* eslint-disable */[39m to ignore all warnings in a file.
+[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:18:58 by 0.000s[39m
+[2K[1A[2K[G[1m[31mERROR[39m[22m in [eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m  [2m4:15[22m  [31merror[39m  Props are defined in both `defineProps` and `export default {}`  [2mvue/valid-define-props[22m[0m
+[0m[0m
+[0m[31m[1m✖ 1 problem (1 error, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+webpack compiled with [1m[31m1 error[39m[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[44m[30m WAIT [39m[49m [34mCompiling...[39m                                                                                                                                                                          [90m10:19:05[39m
+
+[37mCompiling...[39m
+[?25l
+[?25l[2K[1A[2K[G[33m[1%] [39m[37mcache [39m[90m(end idle)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run webpack-dev-middleware)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory CaseSensitivePathsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[5%] [39m[37msetup [39m[90m(context module factory)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile ExternalsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation CopyPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ArrayPushCallbackChunkFormatPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation JsonpChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation StartupChunkDependenciesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ImportScriptsChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileAsyncWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation WorkerPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ChunkPrefetchPreloadPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ModuleInfoHeaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EvalSourceMapDevToolPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JsonModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AssetModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RuntimePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DataUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FileUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CompatibilityPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HarmonyModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AMDPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireJsStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CommonJsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation LoaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NodeStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation APIPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ExportsInfoApiPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WebpackIsIncludedPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ConstPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation UseStrictPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireIncludePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireEnsurePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SystemPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation URLPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsFactoryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPresetPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPrinterPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptMetaInfoPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation TemplatedPathPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProvidePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/0 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(1/4 modules)[39m
+[?25l[2K[1A[2K[G[33m[38%] [39m[37mbuilding [39m[90m(32/14 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(143/36 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(143/42 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader babel-loader/lib/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/templateLoader.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/49 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m[90m(169/50 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[69%] [39m[37mbuilding [39m[90m(finish)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[72%] [39m[37msealing [39m[90m(after dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(after chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(optimizing)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(module optimization)[39m
+[?25l[2K[1A[2K[G[33m[75%] [39m[37msealing [39m[90m(after module optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(after chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(after module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[79%] [39m[37msealing [39m[90m(after chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(before module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(before chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(after chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(module hashing)[39m
+[?25l[2K[1A[2K[G[33m[88%] [39m[37msealing [39m[90m(code generation)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(runtime requirements)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(hashing)[39m
+[?25l[2K[1A[2K[G[33m[90%] [39m[37msealing [39m[90m(after hashing)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(record hash)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(module assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(chunk assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing copy-webpack-plugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[93%] [39m[37msealing [39m[90m(after asset optimization)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(after seal)[39m
+[?25l[2K[1A[2K[G[33m[95%] [39m[37memitting [39m[90m(emit)[39m
+[?25l[2K[1A[2K[G[33m[98%] [39m[37memitting [39m[90m(after emit)[39m
+[?25l[2K[1A[2K[G[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[41m[30m ERROR [39m[49m [31mFailed to compile with 1 error[39m                                                                                                                                                       [90m10:19:05[39m
+
+[eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m   [2m2:9[22m   [31merror[39m  'defineProps' is defined but never used  [2mno-unused-vars[22m[0m
+[0m  [2m18:9[22m   [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m20:17[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m21:15[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+You may use special comments to disable some warnings.
+Use [33m// eslint-disable-next-line[39m to ignore the next line.
+Use [33m/* eslint-disable */[39m to ignore all warnings in a file.
+[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:19:05 by 0.000s[39m
+[2K[1A[2K[G[1m[31mERROR[39m[22m in [eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m   [2m2:9[22m   [31merror[39m  'defineProps' is defined but never used  [2mno-unused-vars[22m[0m
+[0m  [2m18:9[22m   [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m20:17[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m21:15[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+webpack compiled with [1m[31m1 error[39m[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[44m[30m WAIT [39m[49m [34mCompiling...[39m                                                                                                                                                                          [90m10:21:19[39m
+
+[37mCompiling...[39m
+[?25l
+[?25l[2K[1A[2K[G[33m[1%] [39m[37mcache [39m[90m(end idle)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run webpack-dev-middleware)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory CaseSensitivePathsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[5%] [39m[37msetup [39m[90m(context module factory)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile ExternalsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation CopyPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ArrayPushCallbackChunkFormatPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation JsonpChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation StartupChunkDependenciesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ImportScriptsChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileAsyncWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation WorkerPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ChunkPrefetchPreloadPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ModuleInfoHeaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EvalSourceMapDevToolPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JsonModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AssetModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RuntimePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DataUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FileUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CompatibilityPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HarmonyModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AMDPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireJsStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CommonJsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation LoaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NodeStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation APIPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ExportsInfoApiPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WebpackIsIncludedPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ConstPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation UseStrictPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireIncludePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireEnsurePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SystemPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation URLPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsFactoryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPresetPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPrinterPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptMetaInfoPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation TemplatedPathPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProvidePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/0 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(14/5 modules)[39m
+[?25l[2K[1A[2K[G[33m[38%] [39m[37mbuilding [39m[90m(26/12 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(124/36 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/44 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader babel-loader/lib/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/templateLoader.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/49 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m[90m(169/50 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[69%] [39m[37mbuilding [39m[90m(finish)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[72%] [39m[37msealing [39m[90m(after dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(after chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(optimizing)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(module optimization)[39m
+[?25l[2K[1A[2K[G[33m[75%] [39m[37msealing [39m[90m(after module optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(after chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(after module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[79%] [39m[37msealing [39m[90m(after chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(before module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(before chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(after chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(record chunks)[39m
+[?25l[2K[1A[2K[G[33m[87%] [39m[37msealing [39m[90m(module hashing)[39m
+[?25l[2K[1A[2K[G[33m[88%] [39m[37msealing [39m[90m(code generation)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(runtime requirements)[39m
+[?25l[2K[1A[2K[G[33m[89%] [39m[37msealing [39m[90m(hashing)[39m
+[?25l[2K[1A[2K[G[33m[90%] [39m[37msealing [39m[90m(after hashing)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(record hash)[39m
+[?25l[2K[1A[2K[G[33m[91%] [39m[37msealing [39m[90m(module assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(chunk assets processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing copy-webpack-plugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[92%] [39m[37msealing [39m[90m(asset processing)[39m
+[?25l[2K[1A[2K[G[33m[93%] [39m[37msealing [39m[90m(after asset optimization)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(recording)[39m
+[?25l[2K[1A[2K[G[33m[94%] [39m[37msealing [39m[90m(after seal)[39m
+[?25l[2K[1A[2K[G[33m[95%] [39m[37memitting [39m[90m(emit)[39m
+[?25l[2K[1A[2K[G[33m[98%] [39m[37memitting [39m[90m(after emit)[39m
+[?25l[2K[1A[2K[G[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[41m[30m ERROR [39m[49m [31mFailed to compile with 1 error[39m                                                                                                                                                       [90m10:21:19[39m
+
+[eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m   [2m2:9[22m   [31merror[39m  'defineProps' is defined but never used  [2mno-unused-vars[22m[0m
+[0m  [2m18:9[22m   [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m20:17[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m21:15[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+You may use special comments to disable some warnings.
+Use [33m// eslint-disable-next-line[39m to ignore the next line.
+Use [33m/* eslint-disable */[39m to ignore all warnings in a file.
+[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[?25l[37mBuild finished at 10:21:19 by 0.000s[39m
+[2K[1A[2K[G[1m[31mERROR[39m[22m in [eslint] [0m[0m
+[0m[4m/home/colegio/Escritorio/VUE PROYECTO/src/components/SearchResults.vue[24m[0m
+[0m   [2m2:9[22m   [31merror[39m  'defineProps' is defined but never used  [2mno-unused-vars[22m[0m
+[0m  [2m18:9[22m   [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m20:17[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m  [2m21:15[22m  [31merror[39m  'props' is not defined                   [2mno-undef[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
+
+webpack compiled with [1m[31m1 error[39m[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[44m[30m WAIT [39m[49m [34mCompiling...[39m                                                                                                                                                                          [90m10:21:22[39m
+
+[37mCompiling...[39m
+[?25l
+[?25l[2K[1A[2K[G[33m[1%] [39m[37mcache [39m[90m(end idle)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run webpack-dev-middleware)[39m
+[?25l[2K[1A[2K[G[33m[3%] [39m[37msetup [39m[90m(watch run)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory CaseSensitivePathsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[4%] [39m[37msetup [39m[90m(normal module factory)[39m
+[?25l[2K[1A[2K[G[33m[5%] [39m[37msetup [39m[90m(context module factory)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[6%] [39m[37msetup [39m[90m(before compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile ExternalsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[7%] [39m[37msetup [39m[90m(compile)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation CopyPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ArrayPushCallbackChunkFormatPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation JsonpChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation StartupChunkDependenciesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ImportScriptsChunkLoadingPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation FetchCompileAsyncWasmPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation WorkerPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation HtmlWebpackPlugin)[39m
+[?25l[2K[1A[2K[G[33m[8%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation vue-loader-plugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ChunkPrefetchPreloadPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ModuleInfoHeaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EvalSourceMapDevToolPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JsonModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AssetModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RuntimePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DataUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FileUriPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CompatibilityPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HarmonyModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation AMDPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireJsStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation CommonJsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation LoaderPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NodeStuffPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation APIPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ExportsInfoApiPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WebpackIsIncludedPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ConstPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation UseStrictPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireIncludePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireEnsurePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RequireContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaContextPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SystemPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ImportMetaPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation URLPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsFactoryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPresetPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefaultStatsPrinterPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation JavascriptMetaInfoPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation DefinePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation TemplatedPathPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation EntryPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProvidePlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation HotModuleReplacementPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ProgressPlugin)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[9%] [39m[37msetup [39m[90m(compilation)[39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[10%] [39m[37mbuilding [39m[90m(0/0 modules)[39m
+[?25l[2K[1A[2K[G[33m[24%] [39m[37mbuilding [39m[90m(1/4 modules)[39m
+[?25l[2K[1A[2K[G[33m[38%] [39m[37mbuilding [39m[90m(32/14 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(143/36 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(153/44 modules)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader babel-loader/lib/index.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(import loader vue-loader/dist/templateLoader.js)[39m
+[?25l[2K[1A[2K[G[33m[51%] [39m[37mbuilding [39m[90m(159/49 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m[90m(169/50 modules)[39m
+[?25l[2K[1A[2K[G[33m[65%] [39m[37mbuilding [39m
+[?25l[2K[1A[2K[G[33m[69%] [39m[37mbuilding [39m[90m(finish)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ResolverCachePlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph InferAsyncModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph FlagDependencyExportsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph ESLintWebpackPlugin_1)[39m
+[?25l[2K[1A[2K[G[33m[70%] [39m[37msealing [39m[90m(finish module graph)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins WarnCaseSensitiveModulesPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(plugins)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization SideEffectsFlagPlugin)[39m
+[?25l[2K[1A[2K[G[33m[71%] [39m[37msealing [39m[90m(dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[72%] [39m[37msealing [39m[90m(after dependencies optimization)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[73%] [39m[37msealing [39m[90m(after chunk graph)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(optimizing)[39m
+[?25l[2K[1A[2K[G[33m[74%] [39m[37msealing [39m[90m(module optimization)[39m
+[?25l[2K[1A[2K[G[33m[75%] [39m[37msealing [39m[90m(after module optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization EnsureChunkConditionsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization MergeDuplicateChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization SplitChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization RemoveEmptyChunksPlugin)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[76%] [39m[37msealing [39m[90m(after chunk optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization PersistentChildCompilerSingletonPlugin)[39m
+[?25l[2K[1A[2K[G[33m[77%] [39m[37msealing [39m[90m(module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(after module and chunk tree optimization)[39m
+[?25l[2K[1A[2K[G[33m[78%] [39m[37msealing [39m[90m(chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[79%] [39m[37msealing [39m[90m(after chunk modules optimization)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(module reviving)[39m
+[?25l[2K[1A[2K[G[33m[80%] [39m[37msealing [39m[90m(before module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids NamedModuleIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[81%] [39m[37msealing [39m[90m(module ids)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[82%] [39m[37msealing [39m[90m(module id optimization)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving RecordIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(chunk reviving)[39m
+[?25l[2K[1A[2K[G[33m[83%] [39m[37msealing [39m[90m(before chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids NamedChunkIdsPlugin)[39m
+[?25l[2K[1A[2K[G[33m[84%] [39m[37msealing [39m[90m(chunk ids)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[85%] [39m[37msealing [39m[90m(after chunk id optimization)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37msealing [39m[90m(record modules)[39m
+[?25l[2K[1A[2K[G[33m[86%] [39m[37mseal
